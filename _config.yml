@@ -1,0 +1,7 @@
+title: Пробую тему Cayman «в лайт варианте»
+description: То есть вообще без дополнительных папок и прочего html/css
+
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+

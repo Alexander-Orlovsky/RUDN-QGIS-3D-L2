@@ -340,7 +340,7 @@
 
 перейдя по ссылке <https://app.netlify.com>.
 
-![](media/b5e5d933e72f23f1721d2b4acc4a8c80.png)
+![](media/b5e5d933e72f23f1721d2b4acc4a8c8.png)
 
 Загрузите на хостинг html-веб-страницу с вашей 3D-моделью.
 

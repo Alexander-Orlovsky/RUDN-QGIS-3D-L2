@@ -15,7 +15,7 @@
 	- [Qgis Processing plugin](#qgis-processing-plugin)
 		- [1. - Finestra processing](#1---finestra-processing)
 		- [Опубликуйте созданную вами 3D-модель в Интернет](#опубликуйте-созданную-вами-3d-модель-в-интернет)
-		- [Экспортируйте вашу 3D-модель в обменный формат glTF](#экспортируйте-вашу-3d-модель-в-обменный-формат-glTF)
+		- [Экспортируйте вашу 3D-модель в обменный формат glTF](#экспортируйте-вашу-3d-модель-в-обменный-формат-gltf)
 		- [3. CSS - ESEMPIO ARIAL FIXED](#3-css---esempio-arial-fixed)
 - [4. Dati di esempio](#4-dati-di-esempio)
 - [5. Videotutorial](#5-videotutorial)

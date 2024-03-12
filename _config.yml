@@ -6,3 +6,8 @@ google_analytics:
 theme: jekyll-theme-cayman
 
 highlighter: rouge
+
+# Исключаю README, чтобы он не перекладывался в корень самого сайта
+exclude: [README.md, ]
+
+

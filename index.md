@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Это <i>текст</i> **title** из файла index.md
+title: Cозданиe 3D-модели территории в QGIS и Qgis2threejs<br>(Часть 1)
 description: Это <i>текст</i> **description** из файла index.md
 permalink: /index.html
 ---

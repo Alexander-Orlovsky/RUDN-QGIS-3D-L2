@@ -1,5 +1,5 @@
-title: Моя заметка - Это тескт из строки "title" файла «_config.yml»
-description: Моя заметка - Это тескт из строки "description" файла «_config.yml»
+title: Моя заметка - Это текст из строки "title" файла «_config.yml»
+description: Моя заметка - Это текст из строки "description" файла «_config.yml»
 
 show_downloads: false
 google_analytics:

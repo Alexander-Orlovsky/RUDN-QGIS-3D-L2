@@ -11,6 +11,21 @@ permalink: /index.html
 Это index.md
 
 
+Длинный блок кода  
+
+```html
+
+<br> &nbsp;&nbsp; <img src="https://www.rudn.ru/u/www/images/for_smi_image/logo_rudn_eng.png" width=160>
+    <p style="font-size: 16px; color: #0079c1; text-indent: 5px; margin-top: 5px;">
+<b> &nbsp;&nbsp;&nbsp;&nbsp; 3D-геопортал окрестностей Махачкалы </b> </p>
+
+```
+
+
+
+
+
+
 Встречал еще какой-то tagline: Easy websites with GitHub Pages
 
 С проблемностью title/description при разворачивании на GitHub нашел пока такой выход:  

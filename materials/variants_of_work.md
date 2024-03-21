@@ -57,37 +57,35 @@ permalink: /materials/variants_of_work.html
     <th style="background-color: #d5dce4;">&nbsp;&nbsp;&nbsp;&nbsp;  Район работ  &nbsp;&nbsp;&nbsp;&nbsp;</th>
   </tr>
 
-  <tr><td align="center">                                    1</td><td>                                    n43e042 <i> (Эльбрус)    </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;"> 2</td><td style="background-color: #f2f2f2;"> n43e043 <i> (Нальчик)    </i></td></tr>
-  <tr><td align="center">                                    3</td><td>                                    n42e043 <i> (Цхинвал)    </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;"> 4</td><td style="background-color: #f2f2f2;"> n42e047 <i> (Махачкала)  </i></td></tr>
-  <tr><td align="center">                                    5</td><td>                                    n36e033 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;"> 6</td><td style="background-color: #f2f2f2;"> n37e037 <i>              </i></td></tr>
-  <tr><td align="center">                                    7</td><td>                                    n41e047 <i> (Саки)       </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;"> 8</td><td style="background-color: #f2f2f2;"> n40e046 <i>              </i></td></tr>
-  <tr><td align="center">                                    9</td><td>                                    n40e049 <i> (Баку)       </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">10</td><td style="background-color: #f2f2f2;"> n38e048 <i>              </i></td></tr>
-  <tr><td align="center">                                   11</td><td>                                    n33e035 <i> (Бейрут)     </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">12</td><td style="background-color: #f2f2f2;"> n34e036 <i> (Хомс)       </i></td></tr>
-  <tr><td align="center">                                   13</td><td>                                    n37e035 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">14</td><td style="background-color: #f2f2f2;"> n37e036 <i>              </i></td></tr>
-  <tr><td align="center">                                   15</td><td>                                    n37e042 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">16</td><td style="background-color: #f2f2f2;"> n35e045 <i> (Сулеймания) </i></td></tr>
-  <tr><td align="center">                                   17</td><td>                                    n36e029 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">18</td><td style="background-color: #f2f2f2;"> n36e030 <i> (Анталья)    </i></td></tr>
-  <tr><td align="center">                                   19</td><td>                                    n36e032 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">20</td><td style="background-color: #f2f2f2;"> n35e051 <i> (Тегеран)    </i></td></tr>
-  <tr><td align="center">                                   21</td><td>                                    n36e033 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">22</td><td style="background-color: #f2f2f2;"> n42e047 <i>              </i></td></tr>
-  <tr><td align="center">                                   23</td><td>                                    n36e029 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">24</td><td style="background-color: #f2f2f2;"> n40e049 <i>              </i></td></tr>
-  <tr><td align="center">                                   25</td><td>                                    n36e030 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">26</td><td style="background-color: #f2f2f2;"> n41e048 <i>              </i></td></tr>
-  <tr><td align="center">                                   27</td><td>                                    n33e035 <i>              </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">28</td><td style="background-color: #f2f2f2;"> n42e047 <i> (Махачкала)  </i></td></tr>
-  <tr><td align="center">                                   29</td><td>                                    n35e051 <i>              </i></td></tr>
-  <tr><td align="center">                                   30</td><td>                                    n33e035 <i> (Бейрут)     </i></td></tr>
-  <tr><td align="center" style="background-color: #f2f2f2;">31</td><td style="background-color: #f2f2f2;"> n43e043 <i> (Нальчик)    </i></td></tr>
+  <tr><td align="center">                                    1</td><td>                                    n33e035 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;"> 2</td><td style="background-color: #f2f2f2;"> n34e036 </td></tr>
+  <tr><td align="center">                                    3</td><td>                                    n35e045 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;"> 4</td><td style="background-color: #f2f2f2;"> n35e051 </td></tr>
+  <tr><td align="center">                                    5</td><td>                                    n36e029 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;"> 6</td><td style="background-color: #f2f2f2;"> n36e030 </td></tr>
+  <tr><td align="center">                                    7</td><td>                                    n36e032 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;"> 8</td><td style="background-color: #f2f2f2;"> n36e033 </td></tr>
+  <tr><td align="center">                                    9</td><td>                                    n37e035 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">10</td><td style="background-color: #f2f2f2;"> n37e036 </td></tr>
+  <tr><td align="center">                                   11</td><td>                                    n37e037 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">12</td><td style="background-color: #f2f2f2;"> n38e048 </td></tr>
+  <tr><td align="center">                                   13</td><td>                                    n39e044 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">14</td><td style="background-color: #f2f2f2;"> n40e019 </td></tr>
+  <tr><td align="center">                                   15</td><td>                                    n40e046 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">16</td><td style="background-color: #f2f2f2;"> n40e049 </td></tr>
+  <tr><td align="center">                                   17</td><td>                                    n41e019 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">18</td><td style="background-color: #f2f2f2;"> n41e047 </td></tr>
+  <tr><td align="center">                                   19</td><td>                                    n41e048 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">20</td><td style="background-color: #f2f2f2;"> n41e069 </td></tr>
+  <tr><td align="center">                                   21</td><td>                                    n42e018 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">22</td><td style="background-color: #f2f2f2;"> n42e043 </td></tr>
+  <tr><td align="center">                                   23</td><td>                                    n42e047 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">24</td><td style="background-color: #f2f2f2;"> n42e074 </td></tr>
+  <tr><td align="center">                                   25</td><td>                                    n42e076 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">26</td><td style="background-color: #f2f2f2;"> n42e078 </td></tr>
+  <tr><td align="center">                                   27</td><td>                                    n43e016 </td></tr>
+  <tr><td align="center" style="background-color: #f2f2f2;">28</td><td style="background-color: #f2f2f2;"> n43e040 </td></tr>
+  <tr><td align="center">                                   29</td><td>                                    n43e043 </td></tr>
 
 </table>
 

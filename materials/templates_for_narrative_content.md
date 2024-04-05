@@ -86,8 +86,7 @@ permalink: /materials/templates_for_narrative_content.html
     <a href="https://ru.wikipedia.org/wiki/Центральная_Джума-мечеть_(Махачкала)"
        title="ссылка на страницу в Википедии" 
        target="_blank">
-       <b>ссылке</b>)
-    </a>
+       <b>ссылке</b></a>)
  </p>
 
 ```
@@ -129,8 +128,7 @@ permalink: /materials/templates_for_narrative_content.html
     <a href="https://ru.wikipedia.org/wiki/Гянджа" 
        title="ссылка на страницу в Википедии" 
        target="_blank">
-       <b>ссылке</b>)
-    </a>
+       <b>ссылке</b></a>)
  <br><br>
 
  <!-- Вставка двух последних строк текста в шаблоне с их форматированием html-тегами -->

@@ -59,20 +59,20 @@ ZIP&#8209;файл «**3D&#8209;модельки деревьев в gltf.zip**�
 -- САМЫЙ ПРОСТОЙ ВАРИАНТ
 
 CASE
-  WHEN rand(1, 4) = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Large_varying_colors.gltf'
-  WHEN rand(1, 4) = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Tall.gltf'
-  WHEN rand(1, 4) = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Low_Leaf.gltf'
-  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Spruce_Small.gltf'
+  WHEN rand(1, 4) = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Large_varying_colors.gltf'
+  WHEN rand(1, 4) = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Tall.gltf'
+  WHEN rand(1, 4) = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Low_Leaf.gltf'
+  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Spruce_Small.gltf'
 END
 
 
 -- При этом можно отрегулировать преобладание той или иной породы
 
 CASE
-  WHEN rand(1, 5) = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Large_varying_colors.gltf'
-  WHEN rand(1, 10) = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Tall.gltf'
-  WHEN rand(1, 10) = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Low_Leaf.gltf'
-  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Spruce_Small.gltf'
+  WHEN rand(1, 5) = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Large_varying_colors.gltf'
+  WHEN rand(1, 10) = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Tall.gltf'
+  WHEN rand(1, 10) = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Low_Leaf.gltf'
+  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Spruce_Small.gltf'
 END
 
 
@@ -84,10 +84,10 @@ END
 -- (или обычное поле, если слой с деревьями меняться уже не будет)
 
 CASE
-  WHEN "WWW" = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Large_varying_colors.gltf'
-  WHEN "WWW" = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Leaf_Tall.gltf'
-  WHEN "WWW" = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Low_Leaf.gltf'
-  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев в gltf/Tree_Spruce_Small.gltf'
+  WHEN "WWW" = 1 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Large_varying_colors.gltf'
+  WHEN "WWW" = 2 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Leaf_Tall.gltf'
+  WHEN "WWW" = 3 THEN 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Low_Leaf.gltf'
+  ELSE 'E:/_3D/ЧАСТЬ_2/3D-модельки деревьев/Tree_Spruce_Small.gltf'
 END
 
 
